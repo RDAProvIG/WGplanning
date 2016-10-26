@@ -43,3 +43,6 @@ These are unattributed, and just for mnemonic purposes.
       technical sophistication.
 - Biodiversity data group's specific interest in our outputs?
 - Are testbeds the next step?
+    - National Data Service labs
+    - See work of data fabric group in that area.
+    - Robert, chair of their steering committee
