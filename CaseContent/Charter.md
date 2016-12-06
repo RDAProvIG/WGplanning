@@ -22,9 +22,9 @@ The five activity areas of the Working Group will be:
 4. Strategies for enterprise provenance management
 5. Tools for provenance
 
-## Goals
+## Deliverables
 
-The goals for this Working Group are separated into four time-based cohorts as below. Short-term goals are mostly about seeking existing practice. Medium-term about determining possible output forms for the activity areas. Long-term about delivering those outputs and After-term about ensuring continuation of output custodianship, where required. 
+The deliverables for this Working Group are separated into four time-based cohorts as below. Short-term goals are mostly about seeking existing practice. Medium-term about determining possible output forms for the activity areas. Long-term about delivering those outputs and After-term about ensuring continuation of output custodianship, where required. 
 
 ### Short-term (M6)
 
