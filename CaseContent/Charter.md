@@ -10,7 +10,9 @@
 
 Tracking provenance for research data is vital to science and scholarship, providing answers to common questions researchers and institutions pose when sharing and exchanging data.
 
-This group focuses on finding, detailing and recommending best practices for provenance representation and some forms of management. 
+The tasks for this Working Group focus on finding, detailing and recommending best practices for provenance representation and management.  
+
+This group will conduct its work in the manner of a business analysis task: identifying business needs and determining solutions to business problems. Since RDA WGs are not themselves research groups (rather groups of researchers and research agencies), this group will look for existing practice and re-present that for use rather than generate new practice.
 
 [comment]: # From our P8 slides, with the UC addition
 
