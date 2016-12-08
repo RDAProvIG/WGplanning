@@ -1,4 +1,4 @@
-# Vaue Proposition
+# Value Proposition
 
 > Value Proposition: A specific description of who will benefit from
 > the adoption or implementation of the WG outcomes and what tangible
@@ -17,6 +17,15 @@ We plan to propose a working group on provenance solution patterns.
 
 
 ### WG activity points
+
+1. **Provenance Use Cases**
+    -   Use Cases for provenance data or systems are often articulated in terms
+        understood by a particular community however in our group's experience, 
+        many provenance Use Cases are differently worded instances of general
+        Cases.
+    -   The establishment of a published set of UCs would allow people to 
+        compare their UCs with known UCs for which recommended implementations
+        and other patterns may already be known.
 
 1.  **Provenance patterns**
     -   Some ways of doing things in provenance are better than others. This

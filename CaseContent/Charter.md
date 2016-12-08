@@ -21,6 +21,7 @@ The five activity areas of the Working Group will be:
 3. Sharing provenance
 4. Strategies for enterprise provenance management
 5. Tools for provenance
+6. Provenance data collections
 
 ## Deliverables
 
@@ -34,26 +35,29 @@ The deliverables for this Working Group are separated into four time-based cohor
 4. Seek existing provenance sharing implementations
 5. Seek existing enterprise provenance management implementations
 6. Seek listings of provenance tool lists from RDA members and the provenance research community
+7. Seek existing collections of open and non-open provenance data
 
 ### Medium-term (M12)
 
-5. De-duplicate and categorise provenance Use Cases
-6. Determine possible Use Case list outputs
-7. Review patterns and determine recommendations or other outputs
-8. Review sharing implementations and determine recommendations or other outputs
-9. Review enterprise management implementations and seek input on potential WG outputs (recommendations,recipes, etc.)
-10. Review provenance tool lists and seek potential WG outputs (a consolidated list, tol descriptors, community list custodianship)
+6. De-duplicate and categorise provenance Use Cases
+7. Determine possible Use Case list outputs
+8. Review patterns and determine recommendations or other outputs
+9. Review sharing implementations and determine recommendations or other outputs
+10. Review enterprise management implementations and seek input on potential WG outputs (recommendations,recipes, etc.)
+11. Review provenance tool lists and seek potential WG outputs (a consolidated list, tol descriptors, community list custodianship)
+12. Review existing provenance data collections and determine how to present them to the community
 
 ### Long-term (M18)
 
-11. Deliver Use Case list outputs
-12. Deliver pattern outputs
-13. Deliver sharing implementation outputs
-14. Deliver enterprise management outputs
-15. Deliver tool list outputs
-16. Seek provenance tool list custodians
+13. Deliver Use Case list outputs
+14. Deliver pattern outputs
+15. Deliver sharing implementation outputs
+16. Deliver enterprise management outputs
+17. Deliver tool list outputs
+18. Seek provenance tool list custodians
+19. Deliver data collections
 
 ### After-term (M18+)
 
-17. Hand over provenance tool listing governance to non-WG custodians
+20. Hand over provenance tool listing governance to non-WG custodians
 
