@@ -21,7 +21,7 @@ In addition to serving the RDA community directly, this Working Group aims to se
         -   Workflows that enable persistence may need a representation
             of the work done.
         -   Discovery of workflow products.
-        -   Data reuse (as per Prov for Reuse Fitness Assessment [^1]).
+        -   Data reuse (as per Prov for Reuse Fitness Assessment).
         -   Standards for data publishing ... and citation.
 
 ### Other Groups

@@ -6,17 +6,17 @@
 
 ## Overview
 
-[comment]: # First line mostly from the IG Charter  
+[^1]: First line mostly from the IG Charter  
 
-Tracking provenance for research data is vital to science and scholarship, providing answers to common questions researchers and institutions pose when sharing and exchanging data.
+Tracking provenance for research data is vital to science and scholarship, providing answers to common questions researchers and institutions pose when sharing and exchanging data[^1]:.
 
 The tasks for this Working Group focus on finding, detailing and recommending best practices for provenance representation and management.  
 
 This group will conduct its work in the manner of a business analysis task: identifying business needs and determining solutions to business problems. Since RDA WGs are not themselves research groups (rather groups of researchers and research agencies), this group will look for existing practice and re-present that for use rather than generate new practice.
 
-[comment]: # From our P8 slides, with the UC addition
+[^2]: From our P8 slides, with the UC addition
 
-The five activity areas of the Working Group will be:
+The six activity areas[^2]: of the Working Group will be:
 
 1. Common provenance Use Cases
 2. Provenance patterns
