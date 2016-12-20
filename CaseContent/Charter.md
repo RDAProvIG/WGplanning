@@ -36,30 +36,30 @@ The deliverables for this Working Group are separated into four time-based cohor
 3. Seek existing patterns and posit initial generalised provenance patterns
 4. Seek existing provenance sharing implementations
 5. Seek existing enterprise provenance management implementations
-6. Seek listings of provenance tool lists from RDA members and the provenance research community
+6. Seek listings of provenance tools from RDA members and the provenance research community
 7. Seek existing collections of open and non-open provenance data
 
 ### Medium-term (M12)
 
-6. De-duplicate and categorise provenance Use Cases
-7. Determine possible Use Case list outputs
-8. Review patterns and determine recommendations or other outputs
-9. Review sharing implementations and determine recommendations or other outputs
-10. Review enterprise management implementations and seek input on potential WG outputs (recommendations,recipes, etc.)
-11. Review provenance tool lists and seek potential WG outputs (a consolidated list, tol descriptors, community list custodianship)
-12. Review existing provenance data collections and determine how to present them to the community
+8. De-duplicate and categorise provenance Use Cases
+9. Determine possible Use Case list outputs
+10. Review patterns and determine recommendations or other outputs
+11. Review sharing implementations and determine recommendations or other outputs
+12. Review enterprise management implementations and seek input on potential WG outputs (recommendations,recipes, etc.)
+13. Review provenance tool lists and seek potential WG outputs (a consolidated list, tol descriptors, community list custodianship)
+14. Review existing provenance data collections and determine how to present them to the community
 
 ### Long-term (M18)
 
-13. Deliver Use Case list outputs
-14. Deliver pattern outputs
-15. Deliver sharing implementation outputs
-16. Deliver enterprise management outputs
-17. Deliver tool list outputs
-18. Seek provenance tool list custodians
-19. Deliver data collections
+15. Deliver Use Case list outputs
+16. Deliver pattern outputs
+17. Deliver sharing implementation outputs
+18. Deliver enterprise management outputs
+19. Deliver tool list outputs
+20. Seek provenance tool list custodians
+21. Deliver data collection list outputs
 
 ### After-term (M18+)
 
-20. Hand over provenance tool listing governance to non-WG custodians
+22. Hand over provenance tool and data collection listings governance to non-WG custodians
 
