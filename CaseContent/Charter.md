@@ -19,7 +19,7 @@ The six activity areas of the Working Group will be:
 
 ## Deliverables
 
-The deliverables for this Working Group are separated into four time-based cohorts as below. Short-term goals are mostly about seeking existing practice. Medium-term about determining possible output forms for the activity areas. Long-term about delivering those outputs and After-term about ensuring continuation of output custodianship, where required. 
+The deliverables for this Working Group are separated into three time-based cohorts as below. Short-term goals are mostly about seeking existing practice. Medium-term about determining possible output forms for the activity areas. Long-term about delivering those outputs and After-term about ensuring continuation of output custodianship, where required. 
 
 ### Medium-term (M12)
 

@@ -2,7 +2,7 @@
 
 Effective provenance management is sought by many members of the RDA and wider science data community. We propose a working group to help those members adopt existing provenance management practice. This help will be in the form of documenting provenance use cases: centralising a list of them and generalising them to reveal common ones; documenting existing technical and business processes for provenance management, assisting organisations with sharing provenance and listing existing sources of real provenance information.
 
-We propose a working group on provenance solution patterns.
+We propose a working group on *provenance solution patterns.*
 
 - The patterns should relate to core RDA interests, perhaps data/data
   and data/people relationships.
