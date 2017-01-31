@@ -21,37 +21,27 @@ The six activity areas of the Working Group will be:
 
 The deliverables for this Working Group are separated into four time-based cohorts as below. Short-term goals are mostly about seeking existing practice. Medium-term about determining possible output forms for the activity areas. Long-term about delivering those outputs and After-term about ensuring continuation of output custodianship, where required. 
 
-### Short-term (M6)
-
-1. Implement a provenance Use Case recording system 
-2. Seek Provenance Use Cases from other IGs/WGs
-3. Seek existing patterns and posit initial generalised provenance patterns
-4. Seek existing provenance sharing implementations
-5. Seek existing enterprise provenance management implementations
-6. Seek listings of provenance tools from RDA members and the provenance research community
-7. Seek existing collections of open and non-open provenance data
-
 ### Medium-term (M12)
 
-8. De-duplicate and categorise provenance Use Cases
-9. Determine possible Use Case list outputs
-10. Review patterns and determine recommendations or other outputs
-11. Review sharing implementations and determine recommendations or other outputs
-12. Review enterprise management implementations and seek input on potential WG outputs (recommendations,recipes, etc.)
-13. Review provenance tool lists and seek potential WG outputs (a consolidated list, tol descriptors, community list custodianship)
-14. Review existing provenance data collections and determine how to present them to the community
+1. A provenance use case recording system.
+2. An initial collection of provenance use cases, elicited from other interest groups and working groups.
+3. First documented provenance patterns generalised from use cases.
+4. A report on investigation of provenance sharing implementations.
+5. A review of existing enterprise provenance management implementations.
+6. A listings of provenance tools compiled from interviews with RDA members and the provenance research community.
+7. A directory of open and non-open provenance data collections.
 
 ### Long-term (M18)
 
-15. Deliver Use Case list outputs
-16. Deliver pattern outputs
-17. Deliver sharing implementation outputs
-18. Deliver enterprise management outputs
-19. Deliver tool list outputs
-20. Seek provenance tool list custodians
-21. Deliver data collection list outputs
+8. A taxonomy for provenance use cases.
+9. Recommendations for aligning new use cases with provenance patterns.
+10. Lessons for provenance sharing and enterprise management implementations.
+11. A synthesis and critical comparison of community recommendations for provenance tool custodianship.
+12. A summary of best practice principles for provenance data collection stewardship.
 
 ### After-term (M18+)
 
-22. Hand over provenance tool and data collection listings governance to non-WG custodians
+22. A sustainability plan for ongoing tool and data collection custodianship.
+
+
 
