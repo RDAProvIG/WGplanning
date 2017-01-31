@@ -1,11 +1,6 @@
 # Engagement
 
-> Engagement with existing work in the area: A brief review of related
-> work and plan for engagement with any other activities in the area.
-
-In addition to serving the RDA community directly, this Working Group aims to serve the immediate interests of existing RDA groups. The reason for this is that provenance is foundational to many other RDA groups' activity and thus maximal impact on the RDA community can be achieved by aligning and assisting work in existing groups. This means this WG will engage heavily with other groups and source its primary requirements and exemplars from other groups.   
-
-## From our P8 Slides
+In addition to serving the RDA community directly, this Working Group aims to serve the immediate interests of existing RDA groups. The reason for this is that provenance is foundational to many other RDA groups' activity and thus maximal impact on the RDA community can be achieved by aligning and assisting work in existing groups. This means this WG will engage heavily with other groups and source its primary requirements and exemplars from other groups:
 
 -   **Publishing Data Workflows WG**
     -   **About:** "Workflows that enable persistence, quality control
