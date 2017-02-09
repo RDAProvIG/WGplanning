@@ -13,3 +13,4 @@
 - **May 18 - Oct 18**: Long-term goals.
 - **Sep 17**: Final group Plenary 12.
 - **October 18+**: After-term goals.
+

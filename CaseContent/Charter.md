@@ -41,7 +41,5 @@ The deliverables for this Working Group are separated into three time-based coho
 
 ### After-term (M18+)
 
-22. A sustainability plan for ongoing tool and data collection custodianship.
-
-
+13. A sustainability plan for ongoing tool and data collection custodianship.
 
