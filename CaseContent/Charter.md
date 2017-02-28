@@ -11,7 +11,7 @@ This group will conduct its work in the manner of a business analysis task: iden
 The six activity areas of the Working Group will be:
 
 1. Common provenance Use Cases
-2. Provenance patterns
+2. Provenance design patterns
 3. Sharing provenance
 4. Strategies for enterprise provenance management
 5. Tools for provenance
@@ -25,7 +25,7 @@ The deliverables for this Working Group are separated into three time-based coho
 
 1. A provenance use case recording system.
 2. An initial collection of provenance use cases, elicited from other interest groups and working groups.
-3. First documented provenance patterns generalised from use cases.
+3. First documented provenance design patterns generalised from use cases.
 4. A report on investigation of provenance sharing implementations.
 5. A review of existing enterprise provenance management implementations.
 6. A listings of provenance tools compiled from interviews with RDA members and the provenance research community.
@@ -34,7 +34,7 @@ The deliverables for this Working Group are separated into three time-based coho
 ### Long-term (M18)
 
 8. A taxonomy for provenance use cases.
-9. Recommendations for aligning new use cases with provenance patterns.
+9. Recommendations for aligning new use cases with provenance design patterns.
 10. Lessons for provenance sharing and enterprise management implementations.
 11. A synthesis and critical comparison of community recommendations for provenance tool custodianship.
 12. A summary of best practice principles for provenance data collection stewardship.

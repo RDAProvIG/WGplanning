@@ -1,5 +1,5 @@
 --- 
-title: Working Group on Provenance Solutions 
+title: Working Group on Provenance Patterns 
 author: Research Data Provenance IG 
-date:  Last updated  Thu 09/02/2017 17:08:21.13 
+date:  Last updated  Tue 28/02/2017 21:56:04.15 
 --- 

@@ -1,7 +1,7 @@
 @echo off
 REM get date
 ECHO --- > preamble.txt
-ECHO title: Working Group on Provenance Solutions >> preamble.txt
+ECHO title: Working Group on Provenance Patterns >> preamble.txt
 ECHO author: Research Data Provenance IG >> preamble.txt
 ECHO date:  Last updated  %date% %time% >> preamble.txt
 ECHO --- >> preamble.txt

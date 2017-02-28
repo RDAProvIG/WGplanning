@@ -1,6 +1,6 @@
 changecom(<!--,-->)dnl
 ---
-title: Working Group on Provenance Solutions
+title: Working Group on Provenance Patterns
 author: Research Data Provenance IG
 date:  Last updated syscmd(sh -c "date | tr -d '\n'")
 ---
