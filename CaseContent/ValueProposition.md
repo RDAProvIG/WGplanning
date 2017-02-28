@@ -60,13 +60,13 @@ We propose a working group on *provenance patterns*.
         lists up-to-date beyond the life of the WG.
 
 6. **Provenance data collections**
-    -   The provenance research community is knows that the provenance
-        ontologies and tools are used but are only anecdotally aware of 
-        many current provenance datasets. In order to know the state of 
+    -   The provenance research community knows that provenance
+        ontologies and tools are used due to communication with them and research papers but are only anecdotally aware of 
+        many current provenance datasets (i.e. whole datasets of provenance information) and have not yet counted datasets linking to standardised provenance information. In order to know the state of 
         operational system's adoption of provenance models and in order 
         to provide access to public provenance data for both 
         education and actual use, we will list as many current provenance 
-        data stores as we can find owned by RDA members and others.
+        datasets as we can find owned by RDA members and others and catalogues of datasets linking to standardised provenance information.
     -   We will also seek to establish a mechanism to keep this listing 
         up-to-date beyond the life of the WG.
                 
