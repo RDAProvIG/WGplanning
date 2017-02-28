@@ -21,7 +21,7 @@ We propose a working group on *provenance patterns*.
     -   The establishment of a published set of UCs would allow people to 
         compare their UCs with known UCs for which recommended implementations
         and other patterns may already be known. It will also allow people to 
-        consider provenance UCs posed by others that may be of future iterest 
+        consider provenance UCs posed by others that may be of future interest 
         to them.
 
 2.  **Provenance design patterns**
