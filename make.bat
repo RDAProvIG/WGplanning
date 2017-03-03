@@ -7,7 +7,7 @@ ECHO date:  Last updated  %date% %time% >> preamble.txt
 ECHO --- >> preamble.txt
 
 REM concatenate all the .md files into one
-copy preamble.txt+CaseContent\Charter.md+CaseContent\ValueProposition.md+CaseContent\Engagement.md+CaseContent\WorkPlan.md+CaseContent\InitialMembership.md ProvWGcase-all.md
+copy preamble.txt+CaseContent\Charter.md+CaseContent\ValueProposition.md+CaseContent\Engagement.md+CaseContent\WorkPlan.md+CaseContent\InitialMembership.md+CaseContent\Adoption.md ProvWGcase-all.md
 
 REM make the Word Doc
 pandoc ProvWGcase-all.md -o ProvWGcase.docx
