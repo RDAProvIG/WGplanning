@@ -7,6 +7,14 @@ header-includes:
   - \usepackage{amssymb}
 ---
 
+# Plan for this session
+
+1. Status of working group and interest group
+2. Connection to other RDA activities and concerns
+3. Work plan and deliverables
+4. Next steps and your role
+
+
 # Some discussions this week
 
 1. The Scholarly Link Exchange Working Group
@@ -36,6 +44,12 @@ header-includes:
       identify and cite data used in experiments and studies. Instead
       of providing static data exports or textual descriptions of data
       subsets, we support a dynamic, query centric view of data sets.
+
+# Other examples
+
+- IVOA Provenance Data Model
+- ElabFTW open source lab notebook
+- FairDom data management platform
 
 # WG Value proposition
 
