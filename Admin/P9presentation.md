@@ -17,6 +17,13 @@ header-includes:
       literature and data.
     - Most of the discussions on Wednesday were sense making exercises:
          - Why only publications and data sets?
-	 - Why is a bridging service needed?
+	 - Hub model: why is a bridging service needed?
 	 - What level of research data description is appropriate for a bibliographic record?
 	 - Will/can/should Scholix offer some of the services on my wish list?
+
+2. BoF on incentivizing work toward making data and samples available for sharing.
+    - Beyond the *h*-index: contextual indicators for collaborations, etc.
+    - CoBRA guidelines for the citation of bioresources in scientific journal articles.
+
+
+3. TDWG/RDA WG on Metadata standards for collection stewardship attribution
