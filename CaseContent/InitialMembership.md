@@ -1,6 +1,8 @@
 # Initial Membership
 
-Membership will be sought from the Provenance IG and supplemented with a call to both other RDA groups and known non-RDA provenance communities, such as the provenance research community.
+A list of 26 initial members[^1] is online at <https://www.rd-alliance.org/groups/provenance-patterns-wg>.
+Since this group's work is highly relevant to other WGs, we will WG
+members attend this group's meetings either in a liaison role or as
+members in their own right.
 
-Since this group's work is likely to be highly relevant to, or even directed by, other WGs, it may be sensible to have other WG members attend this group's meetings either in a liaison role or as members in their own right.
-
+[^1]: August 2017.
