@@ -1,6 +1,6 @@
 # Value Proposition
 
-Effective provenance management is sought by many members of the RDA and wider science data community. We propose a working group to help those members adopt existing provenance management practice. This help will be in the form of documenting provenance use cases: centralising a list of them and generalising them to reveal common ones; documenting existing technical and business processes for provenance management, assisting organisations with sharing provenance and listing existing sources of real provenance information.
+Effective provenance management is sought by many members of the RDA and wider science data community. We propose a working group to help those members adopt existing provenance management practice. This help will be in the form of documenting provenance use cases: centralising a list of them and generalising them to reveal common features and structure.
 
 We propose a working group on *provenance patterns*.
 
@@ -8,8 +8,9 @@ We propose a working group on *provenance patterns*.
   and data/people relationships.
 - Provenance vocabularies offer a level of generality/specificity that address
   what we perceive to be implementation gaps.
-- Our goal: constructive engagement with and response to published RDA recommendations.
-
+- Our goal: alerting the RDA community to similarities and common
+  features across use cases in different working groups and interest
+  groups.
 
 ### WG activity points
 
@@ -34,39 +35,3 @@ We propose a working group on *provenance patterns*.
         RDA interests, perhaps data/data and data/people
         relationships.
 
-3.  **Sharing provenance**
-    -   This may only be a single class of
-        provenance Use Cases but it is one that is less maturely
-        answered by the provenance research community than, say,
-        provenance representation. This activity might be to generate
-        requirements for the research community to answer or perhaps
-        find that no more research is needed for sensible
-        recommendations for provenance sharing.
-
-4.  **Strategies for enterprise provenance management**
-    -   Some provenance use cases apply
-        to whole organisations (or consortia) and some organisations
-        (or consortia) may already have experience in implementing
-        solutions to them. This activity will list such Use Cases and
-        seek descriptions of implemented or proposed solutions from
-        members.
-
-5.  **Tools for provenance**
-    -   In addition to several well-known provenance conceptual models,
-        there are tools to assist with the management of provenance. We
-        will list those tools with comparisons in relation to RDA
-        interests (perhaps taken from IG and other WG members).
-    -   We will also seek to establish a mechanism to keep these tool 
-        lists up-to-date beyond the life of the WG.
-
-6. **Provenance data collections**
-    -   The provenance research community knows that provenance
-        ontologies and tools are used due to communication with them and research papers but are only anecdotally aware of 
-        many current provenance datasets (i.e. whole datasets of provenance information) and have not yet counted datasets linking to standardised provenance information. In order to know the state of 
-        operational system's adoption of provenance models and in order 
-        to provide access to public provenance data for both 
-        education and actual use, we will list as many current provenance 
-        datasets as we can find owned by RDA members and others and catalogues of datasets linking to standardised provenance information.
-    -   We will also seek to establish a mechanism to keep this listing 
-        up-to-date beyond the life of the WG.
-                
