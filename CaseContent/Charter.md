@@ -29,6 +29,6 @@ The deliverables for this Working Group are separated into two time-based cohort
 5. Recommendations for aligning new use cases with provenance design patterns.
 
 
-[^db]: Our use case and patterns database has been online since June 2017.
+[^db]: Our use case and patterns database has been online since June 2017: <http://patterns.promsns.org/>.
 
 
