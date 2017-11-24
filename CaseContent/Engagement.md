@@ -1,15 +1,23 @@
 # Engagement
 
-In addition to serving the RDA community directly, this Working Group aims to serve the immediate interests of existing RDA groups. Provenance is foundational to many other RDA groups' activity and thus maximal impact on the RDA community can be achieved by aligning and assisting work in existing groups. Therefore this working group will engage heavily with other groups and source its primary requirements and exemplars from other groups. Examples of intersections we believe will
-be productive include the following:
+In addition to serving the RDA community directly, this Working Group
+aims to serve the immediate interests of existing RDA
+groups. Provenance is foundational to many other RDA groups' activity
+and thus maximal impact on the RDA community can be achieved by
+aligning and assisting work in existing groups. Therefore this working
+group will engage heavily with other groups and source its primary
+requirements and exemplars from other groups. Examples of
+intersections we believe will be productive include the following:
 
 Publishing Data Workflows WG:
 
-:  Interest in workflow persistence and quality control, data deposit and citation, reference models and implementation.
+: Interest in workflow persistence and quality control, data deposit
+  and citation, reference models and implementation.
 
 Dynamic Data Citation WG:
 
-:  Interest in a conceptual model for citation fidelity despite changes over time.
+: Interest in a conceptual model for citation fidelity despite changes
+  over time.
 
 PID Information Types:
 

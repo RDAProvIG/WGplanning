@@ -19,7 +19,7 @@ The deliverables for this Working Group are separated into two time-based cohort
 
 ### Medium-term (M12)
 
-1. A provenance use case recording system.
+1. A provenance use case recording system[^db]. 
 2. An initial collection of provenance use cases, elicited from other interest groups and working groups.
 3. First documented provenance design patterns generalised from use cases.
 
@@ -27,5 +27,8 @@ The deliverables for this Working Group are separated into two time-based cohort
 
 4. A taxonomy for provenance use cases.
 5. Recommendations for aligning new use cases with provenance design patterns.
+
+
+[^db]: Our use case and patterns database has been online since June 2017.
 
 
