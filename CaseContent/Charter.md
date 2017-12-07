@@ -27,7 +27,7 @@ The deliverables for this Working Group are separated into two time-based cohort
 
 4. A taxonomy for provenance use cases.
 5. Recommendations for aligning new use cases with provenance design patterns.
-
+6. A sustainability plan for ongoing data and document custodianship.
 
 [^db]: Our use case and patterns database has been online since June 2017: <http://patterns.promsns.org/>.
 

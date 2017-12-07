@@ -31,9 +31,7 @@ initiatives such as the [Open Provenance Model](http://openprovenance.org/),
 [ProvONE](http://vcvcomputing.com/provone/provone.html), the [PROV W3C standard](https://www.w3.org/TR/prov-overview/) 
 and having presented at many recent provenance conferences such as [IPAW 2014](http://www.ipaw.info/ipaw14) & 
 [2016](http://www.ipaw.info/ipaw16), [TaPP 2015](http://workshops.inf.ed.ac.uk/tapp2015/), 
-[TaPP 2017](http://batesa.web.engr.illinois.edu/tapp17/) *(coming)*, 
-[Classification Soc 2017](https://tcs.wildapricot.org/Meeting), [ISWC 2016](http://iswc2016.semanticweb.org/) and 
-[IDCC 2017](http://www.dcc.ac.uk/events/idcc17).
+[TaPP 2017](http://batesa.web.engr.illinois.edu/tapp17/).
 
 The full listing of the IG's involvement in provenance conferences is available on the RDA Prov IG wiki:
 
@@ -41,10 +39,10 @@ The full listing of the IG's involvement in provenance conferences is available 
 
 ## Continued adoption
 Some of the outputs from this WG are targeted at continued adoption over time. This proposal includes a deliverable for
-a "sustainability plan for ongoing tool and data collection custodianship" after having initially established a 
-provenance use case database, listings of provenance tools and provenance datasets. Such a plan is currently missing 
+a "sustainability plan for ongoing data and  document custodianship" after having initially established a 
+database of use cases and provenance patterns. Such a plan is currently missing 
 from the international provenance community despite widespread recognition that it would be useful. This was recognised
 at IPAW 2016 independently of any RDA involvement. 
 
-It is expected that at the conclusion of this WG, the current provenance IG will have some role in the custodianship of
-its outputs.
+It is expected that at the conclusion of this WG, the current
+provenance IG will have some role in the custodianship of its outputs.
