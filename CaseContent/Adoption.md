@@ -1,9 +1,9 @@
 # Adoption
 
 ## Other RDA groups
-This WG proposal is engagement-driven, initially with other RDA groups, thus it is in them that we expect to see 
+This WG proposal is engagement-driven, initially with other RDA groups, thus it is in them that we expect to see
 adoption in the short term.
-   
+
 Where another RDA group presents us with a provenance use case, we hope to either:
 
 * associate that use case with a generic use case and a thus a pre-made generic resolution
@@ -22,31 +22,63 @@ response to their direct needs and similar needs of other RDA groups,
 will therefore be fed back into their home institutions for adoption
 there.
 
+RDA groups sharing members with this WG with whom we have already discussed collaboration plans are:
+
+* **Storage Service Definitions WG** - Nicholas Car
+  * storage definition ontology to use PP WG patterns
+* **RDA/TDWG Metadata Standards for attribution of physical and digital collections stewardship** - Andrew Dormer
+  * Entity/Agent relations to use PP WG patterns
+* **Agrisemantics WG** - Andres Ferreyra & Simon Cox
+  * ADAPT model being mapped to PROV by PP WG
+* **Data Versioning WG** - Jens Klump & Lesley Wyborn
+  * DV WG UCs being placed into the Patterns DB
+* **Physical Samples & Collections IG** - Andrew Thomer, Nicholas Car, Jens Klump, Lesley Wyborn
+  * Will adopt PPWG patterns for both digital & physical entity provenance
+* **Vocabulary Services Interest Group** - Simon Cox & Nicholas Car
+  * Will adopt vocab term provenance from PPWG patterns
+
 ## Non-RDA groups
-The international provenance research community is in contact with many potential consumers of provenance patterns due 
+The international provenance research community is in contact with many potential consumers of provenance patterns due
 to their profile as experts on provenance. The potential consumers don't always receive the advice they are seeking due
 to differences in their aims and that of the research community's. The research community needs to push the provenance
-envelope forward and not dwell on previous work, even when that work may contain patterns perfectly suited to the 
+envelope forward and not dwell on previous work, even when that work may contain patterns perfectly suited to the
 potential consumers' needs.
 
-The Provenance IG has and the WG will have, if membership proceeds as expected, good contacts with the international 
-provenance research community with several IG members having made substantial contributions to provenance research 
-initiatives such as the [Open Provenance Model](http://openprovenance.org/), 
-[ProvONE](http://vcvcomputing.com/provone/provone.html), the [PROV W3C standard](https://www.w3.org/TR/prov-overview/) 
-and having presented at many recent provenance conferences such as [IPAW 2014](http://www.ipaw.info/ipaw14) & 
-[2016](http://www.ipaw.info/ipaw16), [TaPP 2015](http://workshops.inf.ed.ac.uk/tapp2015/), 
+The Provenance IG has and the WG will have good contacts with the international
+provenance research community with several IG members having made substantial contributions to provenance research
+initiatives such as the [Open Provenance Model](http://openprovenance.org/),
+[ProvONE](http://vcvcomputing.com/provone/provone.html), the [PROV W3C standard](https://www.w3.org/TR/prov-overview/)
+and having presented at many recent provenance conferences such as [IPAW 2014](http://www.ipaw.info/ipaw14) &
+[2016](http://www.ipaw.info/ipaw16), [TaPP 2015](http://workshops.inf.ed.ac.uk/tapp2015/),
 [TaPP 2017](http://batesa.web.engr.illinois.edu/tapp17/).
 
 The full listing of the IG's involvement in provenance conferences is available on the RDA Prov IG wiki:
 
 * [https://www.rd-alliance.org/group/research-data-provenance/wiki/provenance-conferences](https://www.rd-alliance.org/group/research-data-provenance/wiki/provenance-conferences)
 
+Formal links to the following non-RDA provenance groups will be maintained through WG and other group joint members. Relations and actions already established are:
+
+* **W3C's Data Exchange WG** - Nicholas Car & Rob Atkinson
+  * harmonising of provenance Use Cases
+* **ISO TC211** - Simon Cox & Ivana Ivanova
+  * patterns for associating geographic metadata with provenance under review by TC211 members
+* **ENVIRI Plus** - Barbara Magagna & Markus Stocker
+  * ENVRI UCs to be represented in UC DB
+* **Australian Government Linked Data WG** - Nicholas Car, Simon Cox & Ivana Ivanova
+  * Recommendations to Aust. government for provenance will be to use PP WG patterns
+* **DARE - Delivering Agile Research Excellence on European e-infrastructures** - Alessandro Spinuso
+  * e-infrastructure partners will be asked to record provenance Use Cases in UC DB
+* **Provenance Week organising committee** - Paolo Missier
+  * Plans for post PP WG provenance tool maintenance will be workshopped
+* **International GeoSample Number Technical Committee** - Nicholas Car & Jens Klump
+  * Mapping of IGSN metadata to PROV already taking place
+
 ## Continued adoption
-Some of the outputs from this WG are targeted at continued adoption over time. This proposal includes a deliverable for
-a "sustainability plan for ongoing data and  document custodianship" after having initially established a 
-database of use cases and provenance patterns. Such a plan is currently missing 
+Some of the outputs from this WG are targeted at continued adoption over time, such as the best practice documents (Use Cases and their corresponding Patterns). This proposal includes a deliverable for
+a "sustainability plan for ongoing data and document custodianship" after having initially established a
+database of use cases and provenance patterns. Such a plan is currently missing
 from the international provenance community despite widespread recognition that it would be useful. This was recognised
-at IPAW 2016 independently of any RDA involvement. 
+at IPAW 2016, independently of any RDA involvement and will be discussed at IPAW 2018 by the provenance research community and several attending WG members.
 
 It is expected that at the conclusion of this WG, the current
 provenance IG will have some role in the custodianship of its outputs.

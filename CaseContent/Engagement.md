@@ -43,3 +43,14 @@ Preservation e-Infrastructure IG:
 
 :  Semantic content of preserved data holdings.
 
+RDA/TDWG Metadata Standards
+
+:  Will adopt entity/agent patterning from PP WG
+
+Vocabulary Services IG
+
+:  Will look to PP WG for provenance patterning
+
+Physical Samples and Collections IG
+
+:  Will adopt physical & digital Entity provenance patterns
