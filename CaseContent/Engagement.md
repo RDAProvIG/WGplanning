@@ -6,22 +6,10 @@ groups. Provenance is foundational to many other RDA groups' activity
 and thus maximal impact on the RDA community can be achieved by
 aligning and assisting work in existing groups. Therefore this working
 group will engage heavily with other groups and source its primary
-requirements and exemplars from other groups. Examples of
-intersections we believe will be productive include the following:
-
-Publishing Data Workflows WG:
-
-: Interest in workflow persistence and quality control, data deposit
-  and citation, reference models and implementation.
-
-Dynamic Data Citation WG:
-
-: Interest in a conceptual model for citation fidelity despite changes
-  over time.
-
-PID Information Types:
-
-:  The Use Case "A.10 Provenance tracing."
+requirements and exemplars from other groups. RDA Groups with whom we
+have already communicated are listed in the **Adoption** section. Examples of
+intersections we believe will be productive over the next ten months
+include the following:
 
 Reproducibility IG:
 
@@ -43,14 +31,14 @@ Preservation e-Infrastructure IG:
 
 :  Semantic content of preserved data holdings.
 
-RDA/TDWG Metadata Standards
 
-:  Will adopt entity/agent patterning from PP WG
+Although the following groups are either at or near completion of their work, we
+see opportunities to respond to portions of their deliverables with our own.
 
-Vocabulary Services IG
+- Publishing Data Workflows WG
 
-:  Will look to PP WG for provenance patterning
+- Data Citation WG
 
-Physical Samples and Collections IG
+- PID Kernel Information WG
 
-:  Will adopt physical & digital Entity provenance patterns
+

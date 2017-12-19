@@ -20,8 +20,8 @@ The deliverables for this Working Group are separated into two time-based cohort
 ### Medium-term (M12)
 
 1. A provenance use case recording system[^db]. 
-2. An initial collection of provenance use cases, elicited from other interest groups and working groups.
-3. First documented provenance design patterns generalised from use cases.
+2. An initial collection of provenance use cases, elicited from other interest groups and working groups[^uc].
+3. First documented provenance design patterns generalised from use cases[^dp].
 
 ### Long-term (M18)
 
@@ -31,4 +31,7 @@ The deliverables for this Working Group are separated into two time-based cohort
 
 [^db]: Our use case and patterns database has been online since June 2017: <http://patterns.promsns.org/>.
 
+[^uc]: Thirteen entries are online as of December 2017: <http://patterns.promsns.org/usecases>.
+
+[^dp]: Ten pattern records are online as of December 2017: <http://patterns.promsns.org/patterns>.
 

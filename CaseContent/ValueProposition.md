@@ -4,7 +4,7 @@ Effective provenance management is sought by many members of the RDA and wider s
 
 We propose a working group on *provenance patterns*.
 
-- The patterns should relate to core RDA interests, perhaps data/data
+- The patterns should relate to core RDA interests, specifically data/data
   and data/people relationships.
 - Provenance vocabularies offer a level of generality/specificity that address
   what we perceive to be implementation gaps.
@@ -15,10 +15,10 @@ We propose a working group on *provenance patterns*.
 ### WG activity points
 
 1. **Common provenance Use Cases**
-    -   Use Cases for provenance data or systems are often articulated in terms
+    -   Use cases for provenance data or systems are often articulated in terms
         understood by a particular community however in our group's experience, 
-        many provenance Use Cases are differently worded instances of general
-        Cases.
+        many provenance use cases are differently worded instances of general
+        cases.
     -   The establishment of a published set of UCs would allow people to 
         compare their UCs with known UCs for which recommended implementations
         and other patterns may already be known. It will also allow people to 
@@ -29,9 +29,7 @@ We propose a working group on *provenance patterns*.
     -   Some ways of doing things in provenance are better than others. This
         activity is to generate provenance design patterns (for any
         provenance task such as representation, transmission, use etc.)
-        perhaps in response to a series of provenance use cases that we
-        would generate.
-    -   The patterns should relate to core
-        RDA interests, perhaps data/data and data/people
-        relationships.
+        in response to a series of provenance use cases that we
+        have begun collecting.
+
 

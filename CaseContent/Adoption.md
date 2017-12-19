@@ -6,8 +6,8 @@ adoption in the short term.
 
 Where another RDA group presents us with a provenance use case, we hope to either:
 
-* associate that use case with a generic use case and a thus a pre-made generic resolution
-* provide a direct provenance pattern-based resolution directly
+1. associate that use case with a generic use case and a thus a pre-made generic resolution
+2. provide a direct provenance pattern-based resolution directly
 
 In either case, we hope to promote a pattern that the RDA group will adopt and promote to its members.
 
@@ -24,18 +24,18 @@ there.
 
 RDA groups sharing members with this WG with whom we have already discussed collaboration plans are:
 
-* **Storage Service Definitions WG** - Nicholas Car
-  * storage definition ontology to use PP WG patterns
-* **RDA/TDWG Metadata Standards for attribution of physical and digital collections stewardship** - Andrew Dormer
-  * Entity/Agent relations to use PP WG patterns
-* **Agrisemantics WG** - Andres Ferreyra & Simon Cox
-  * ADAPT model being mapped to PROV by PP WG
-* **Data Versioning WG** - Jens Klump & Lesley Wyborn
-  * DV WG UCs being placed into the Patterns DB
-* **Physical Samples & Collections IG** - Andrew Thomer, Nicholas Car, Jens Klump, Lesley Wyborn
-  * Will adopt PPWG patterns for both digital & physical entity provenance
-* **Vocabulary Services Interest Group** - Simon Cox & Nicholas Car
-  * Will adopt vocab term provenance from PPWG patterns
+- **Storage Service Definitions WG** - Nicholas Car
+     - storage definition ontology to use PPWG patterns
+- **RDA/TDWG Metadata Standards for attribution of physical and digital collections stewardship** - Andrew Dormer
+     - Entity/Agent relations to use PPWG patterns
+- **Agrisemantics WG** - Andres Ferreyra & Simon Cox
+     - ADAPT model being mapped to PROV by PPWG
+- **Data Versioning WG** - Jens Klump & Lesley Wyborn
+     - DV WG UCs being placed into the Patterns DB
+- **Physical Samples & Collections IG** - Andrea Thomer, Nicholas Car, Jens Klump, Lesley Wyborn
+     - Will adopt PPWG patterns for both digital & physical entity provenance
+- **Vocabulary Services Interest Group** - Simon Cox & Nicholas Car
+     - Will adopt vocab term provenance from PPWG patterns
 
 ## Non-RDA groups
 The international provenance research community is in contact with many potential consumers of provenance patterns due
@@ -59,19 +59,19 @@ The full listing of the IG's involvement in provenance conferences is available 
 Formal links to the following non-RDA provenance groups will be maintained through WG and other group joint members. Relations and actions already established are:
 
 * **W3C's Data Exchange WG** - Nicholas Car & Rob Atkinson
-  * harmonising of provenance Use Cases
+     * harmonising of provenance Use Cases
 * **ISO TC211** - Simon Cox & Ivana Ivanova
-  * patterns for associating geographic metadata with provenance under review by TC211 members
+     * patterns for associating geographic metadata with provenance under review by TC211 members
 * **ENVIRI Plus** - Barbara Magagna & Markus Stocker
-  * ENVRI UCs to be represented in UC DB
+     * ENVRI UCs to be represented in UC DB
 * **Australian Government Linked Data WG** - Nicholas Car, Simon Cox & Ivana Ivanova
-  * Recommendations to Aust. government for provenance will be to use PP WG patterns
+     * Recommendations to Aust. government for provenance will be to use PP WG patterns
 * **DARE - Delivering Agile Research Excellence on European e-infrastructures** - Alessandro Spinuso
-  * e-infrastructure partners will be asked to record provenance Use Cases in UC DB
+     * e-infrastructure partners will be asked to record provenance Use Cases in UC DB
 * **Provenance Week organising committee** - Paolo Missier
-  * Plans for post PP WG provenance tool maintenance will be workshopped
+     * Plans for post PP WG provenance tool maintenance will be workshopped
 * **International GeoSample Number Technical Committee** - Nicholas Car & Jens Klump
-  * Mapping of IGSN metadata to PROV already taking place
+     * Mapping of IGSN metadata to PROV already taking place
 
 ## Continued adoption
 Some of the outputs from this WG are targeted at continued adoption over time, such as the best practice documents (Use Cases and their corresponding Patterns). This proposal includes a deliverable for
