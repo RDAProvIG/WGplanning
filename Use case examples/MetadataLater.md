@@ -2,7 +2,8 @@
 contact: Sarah Ramdeen
 version: 1.0
 date: 15 March 2017
-title: Metadata Later
+title: Creation of metadata after the fact and repairing metadata
+shorttitle: Metadata Later
 ---
 
 # Goal
