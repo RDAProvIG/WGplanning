@@ -1,61 +1,81 @@
-<p><strong>Point of Contact:</strong> Sarah Ramdeen <strong>Version: 1.0</strong> <strong>Date: 15 March 2017</strong></p>
-<p><strong><em>Use Case Name </em></strong></p>
-<p>Metadata Later</p>
-<p><strong><em>Goal</em></strong></p>
-<p><em>To continue to improve the metadata of an object (physical or digital) after the initial collecting event or digitization event. The person who improved the metadata and how and when the improvement was made should be recorded. Any user should be able to find this information and use it to assess the actor.</em></p>
-<p><strong><em>Summary</em></strong></p>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="dcterms.date" content="2017-03-15" />
+  <title>Metadata Later</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+<h1 class="title">Metadata Later</h1>
+<p class="date">15 March 2017</p>
+</header>
+<h1 id="goal">Goal</h1>
+<p>To continue to improve the metadata of an object (physical or digital) after the initial collecting event or digitization event. The person who improved the metadata and how and when the improvement was made should be recorded. Any user should be able to find this information and use it to assess the actor.</p>
+<h1 id="summary">Summary</h1>
 <p>Sarah is a metadata curator at a museum. She has found a mineral specimen that has the latitude and longitude inverted on the specimen card. She wants to fix this error in the electronic system the museum uses for managing specimens. Her department gets funding based on how much work they do, so the system needs to record who did the correction, when, and why.</p>
 <p>Michael is a scientist accessing specimen at the museum. He discovers an error in the metadata for an item and wants to report it back to the museum. Part of his evaluation of the error is his expertise in the field/domain. Once the record is amended, it is important to capture when the change was made. If someone else previously published findings on this specimen the record needs to reflect that a change happened after the publication. Michael reports the error to the curator (Sarah) for correction.</p>
-<p><strong><em>Actors</em></strong></p>
+<h1 id="actors">Actors</h1>
 <ul>
-<li><p>Metadata Curator, Sarah</p></li>
-<li><p>Scientists, Michael</p></li>
+<li>Metadata Curator, Sarah</li>
+<li>Scientists, Michael</li>
 </ul>
-<p><strong><em>Preconditions</em></strong></p>
+<h1 id="preconditions">Preconditions</h1>
 <ul>
-<li><p>There already exists a system that contains a digital object (could be a digital representation of a physical object)</p></li>
-<li><p>The metadata curator logs in and finds the object and metadata of interest.</p></li>
-<li><p>Sarah has an ORCID</p></li>
-<li><p>A system of specimen identifiers is in place, such as IGSN</p></li>
+<li>There already exists a system that contains a digital object (could be a digital representation of a physical object)</li>
+<li>The metadata curator logs in and finds the object and metadata of interest.</li>
+<li>Sarah has an ORCID</li>
+<li>A system of specimen identifiers is in place, such as IGSN</li>
 </ul>
-<p><strong><em>Post Conditions</em></strong></p>
+<h1 id="post-conditions">Post Conditions</h1>
 <ul>
 <li><p>Behind the scenes, the system records the correction, the reason/evidence for the correction, the identity of the curator, and the date/time of the correction. The previous incorrect data are also kept, but deprecated.</p></li>
 <li><p>Sarah is returned to the splash page for the digital object she was curating. There is a visual evidence that the change was made.</p></li>
 <li><p>Outsiders viewing the record should be able to see that changes have been made and when they were made.</p></li>
 </ul>
-<p><strong><em>Triggers</em></strong></p>
+<h1 id="triggers">Triggers</h1>
 <p>The user locates incorrect data and clicks “edit” to make the correction</p>
-<p><strong><em>Normal Flow</em></strong></p>
-<ol style="list-style-type: decimal">
-<li><p>Sarah is presented with an editable version of the the incorrect data.</p></li>
-<li><p>She makes the correction. Hits “ok”.</p></li>
-<li><p>The editable version of the data disappears</p></li>
-<li><p>She is prompted for the reason for the correction and any related evidence (possibly a controlled vocabulary)</p></li>
-<li><p>She adds the reason for the correction. Hits “ok”</p></li>
+<h1 id="normal-flow">Normal Flow</h1>
+<ol type="1">
+<li>Sarah is presented with an editable version of the the incorrect data.</li>
+<li>She makes the correction. Hits “ok”.</li>
+<li>The editable version of the data disappears</li>
+<li>She is prompted for the reason for the correction and any related evidence (possibly a controlled vocabulary)</li>
+<li>She adds the reason for the correction. Hits “ok”</li>
 </ol>
-<p><strong><em>Alternate Flows</em></strong></p>
+<h1 id="alternate-flows">Alternate Flows</h1>
 <ul>
-<li>Every “ok” or “edit” button should also be accompanied by a “cancel” button that takes the user back to the previous page (likely the digital object splash page)</li>
+<li>Every “ok” or “edit” button should also be accompanied by a “cancel” button that takes the user back to the previous page (likely the digital object splash page).</li>
 </ul>
-<p><strong><em>Exception Flows</em></strong></p>
+<h1 id="exception-flows">Exception Flows</h1>
 <ul>
 <li>If no evidence or reasoning is given for the change, the system should remind the user that this information is required and give another chance to add the information.</li>
 </ul>
-<p><strong><em>Entities</em></strong></p>
-<p>Person (Curator) - In this case, Sarah</p>
-<p>Action - In this case correcting inverted numbers</p>
-<p>Thing that was acted upon - In this case a latitude/longitude pair</p>
-<p>Reason for the action - In this case whatever gave Sarah the idea that the lat long was inverted.</p>
-<p>DateTime of the Action</p>
-<p>Notes - any important notes?</p>
-<p><strong><em>Properties</em></strong></p>
+<h1 id="entities">Entities</h1>
+<ul>
+<li>Person (Curator) - In this case, Sarah</li>
+<li>Action - In this case correcting inverted numbers</li>
+<li>Thing that was acted upon - In this case a latitude/longitude pair</li>
+<li>Reason for the action - In this case whatever gave Sarah the idea that the lat long was inverted.</li>
+<li>DateTime of the Action</li>
+<li>Notes - any important notes?</li>
+</ul>
+<h1 id="properties">Properties</h1>
 <p>PerformedBy and Performed</p>
-<p><strong><em>Diagram</em></strong></p>
-<div class="figure">
-<img src="media/image3.jpg" width="350" height="265" />
-
-</div>
-<p><strong><em>Priority</em></strong></p>
-<p><strong><em>Notes</em></strong></p>
+<h1 id="diagram">Diagram</h1>
+<p><img src="MetadataLater1.png" /></p>
+<h1 id="notes">Notes</h1>
 <p>The information should be changed by the curator, but there should also be a mechanism for reporting error by the end user to the curator or manager of the system. This is different than evaluating quality.</p>
+</body>
+</html>
